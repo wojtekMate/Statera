@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statera", "Statera\Statera.csproj", "{D23C30D7-B5FB-4C80-95D3-6D889645B2B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23C30D7-B5FB-4C80-95D3-6D889645B2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23C30D7-B5FB-4C80-95D3-6D889645B2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23C30D7-B5FB-4C80-95D3-6D889645B2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23C30D7-B5FB-4C80-95D3-6D889645B2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
